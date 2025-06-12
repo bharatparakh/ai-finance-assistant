@@ -15,6 +15,7 @@
         <module>user-service</module>
         <module>discovery-service</module>
         <module>api-gateway</module>
+        <module>auth-service</module>
         <!-- Other modules go here -->
     </modules>
 
